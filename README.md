@@ -1,5 +1,7 @@
 # TypeScript UnionType
 ## UnionType
+Union type is a type that can be expressed as type A or type B.  
+Can be used for multiple types.  
 
 ## Code
 ```TypeScript
